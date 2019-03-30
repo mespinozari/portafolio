@@ -1,0 +1,73 @@
+@import "_fonts";
+@import "_global";
+@import "_form";
+@import "_buttons";
+@import "_display";
+
+/*Header*/
+.header {
+    padding: 30px;
+}
+
+.header ul p {
+    font-family: exo;
+    font-size: 12px;
+    color: #1b4f82;
+}
+
+/*Main*/
+.section-one {
+    
+    margin-left: 70px;
+}
+
+.section-one h2 {
+    width: 409px;
+    height: 168px;
+    font-family: exo;
+    font-size: 42px;
+    color: #0d3964;
+}
+
+.section-one p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #1b4f82;
+    margin-bottom: 30px;
+}
+
+
+
+.section-two  {
+    margin-left: 70px;
+
+}
+
+.section-two h3 {
+    font-family: exo;
+    font-size: 38px;
+    color: #0d3964;
+}
+
+.section-two p {
+    width: 652px;
+    height: 56px;
+    font-family: arial;
+    font-size: 16px;
+    color: #1b4f82;
+
+}
+
+/*Footer*/
+.footer {
+    margin-left: 70px;
+    padding: 30px 0;
+}
+
+.footer p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #1b4f82;
+}
+
+

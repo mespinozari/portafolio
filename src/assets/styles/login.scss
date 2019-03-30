@@ -1,0 +1,35 @@
+@import "_fonts";
+@import "_global";
+@import "_form";
+@import "_buttons";
+@import "_display";
+
+/*Header*/
+.header-login {
+    padding: 30px; 
+    margin-left: 70px;
+}
+
+/*Main*/
+.section {
+    display: flex;
+    flex-direction: column;
+    margin: 100px 300px;
+
+
+
+}
+
+.section ul {
+    padding: 0px;
+}
+
+.section h1 {
+    font-size: 32px;
+}
+
+/*Footer*/
+.footer {
+    margin-left: 70px;
+}
+
